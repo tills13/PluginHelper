@@ -1,0 +1,9 @@
+name: PluginHelper
+main: com.jseb.pluginhelper.PluginHelper
+author: tills13
+version: 1.0
+description: PluginHelper
+
+commands:
+  plugin:
+    description: Warn a player.
